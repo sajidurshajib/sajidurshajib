@@ -1,6 +1,5 @@
 ### Hi there 👋
-## I'm Sajidur
->You can call me Sajid
+I'm Sajidur `(you can call me Sajid)`. I am a developer and a trainer. For education purpose I am passionate about open source projects. Problem solving with algorithm is my hobby. 
 
 :smirk:
 

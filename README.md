@@ -1,9 +1,13 @@
 ### Hi there 👋
-I'm Sajidur `(you can call me Sajid)`. I am a developer and a trainer. For education purpose I am passionate about open source projects. Problem solving with many kind of algorithms is interesting topic for me. 
+I'm Sajidur `(you can call me Sajid)`. I am a developer and a trainer. For education purpose I am passionate about open source projects. Problem solving with many kinds of algorithms is an interesting topic for me. 
 
-I like work with team too. I have many projects which was I developed with team members. 
+I like work with team too. I have many projects which was I, developed working with team members. 
 
-:smirk:
+* :computer: I'm currently writing some npm packages. 
+* :mag_right: And also searching for open source project.
+* :bell: You can invite me your open source project If you need my collaboration. 
+
+
 
 __RPSU__ *CSE*
 

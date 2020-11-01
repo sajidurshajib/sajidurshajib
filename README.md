@@ -1,5 +1,7 @@
 ### Hi there 👋
-I'm Sajidur `(you can call me Sajid)`. I am a developer and a trainer. For education purpose I am passionate about open source projects. Problem solving with algorithm is my hobby. 
+I'm Sajidur `(you can call me Sajid)`. I am a developer and a trainer. For education purpose I am passionate about open source projects. Problem solving with many kind of algorithms is interesting topic for me. 
+
+I like work with team too. I have many projects which was I developed with team members. 
 
 :smirk:
 

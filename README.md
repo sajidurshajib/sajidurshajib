@@ -8,6 +8,10 @@ I like work with team too. I have many projects which was I, developed working w
 * :bell: You can invite me your open source project If you need my collaboration. 
 
 
+![](https://img.shields.io/badge/web-js-yellow)
+![](https://img.shields.io/badge/web-php-blue)
+![](https://img.shields.io/badge/desktop-java-orange)
+![](https://img.shields.io/badge/algortihms-c/c++-lightgrey)
 
 __RPSU__ *CSE*
 

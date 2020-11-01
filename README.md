@@ -42,4 +42,11 @@ function game(a, b){
 |-----------|------------|
 | Sajidur   | 17200020   |
 
-![](https://img.sheilds.io/badge/name-Sajidur-blue)
+![](https://img.shields.io/badge/name-Sajidur-blue)
+![](https://img.shields.io/badge/name-Sajidur-orange)
+![](https://img.shields.io/badge/name-Sajidur-red)
+![](https://img.shields.io/badge/name-Sajidur-yellow)
+![](https://img.shields.io/badge/name-Sajidur-green)
+![](https://img.shields.io/badge/name-Sajidur-brightgreen)
+![](https://img.shields.io/badge/name-Sajidur-yellowgreen)
+![](https://img.shields.io/badge/name-Sajidur-lightgrey)

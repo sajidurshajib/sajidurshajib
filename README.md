@@ -1,6 +1,6 @@
-### Hi there 
-:wave:
-#### - Web developer 
+### Hi there 👋
+## I'm Sajidur
+>You can call me Sajid
 
 :smirk:
 

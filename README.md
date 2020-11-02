@@ -19,4 +19,4 @@ I like work with team too. I have many projects which was I, developed working w
 
 You can contact me through :e-mail: sajidur.inbox@gmail.com 
 
-For detail just visit sajidurshajib.github.io
+For detail just visit :computer: https://sajidurshajib.github.io

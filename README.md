@@ -15,7 +15,4 @@ I like work with team too. I have many projects which was I, developed working w
 ![](https://img.shields.io/badge/desktop-java-orange)
 ![](https://img.shields.io/badge/algortihms-c/c++-lightgrey)
 
-___
-
-### What I know...!
-
+>Here is my short description only  

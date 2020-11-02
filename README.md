@@ -1,9 +1,4 @@
-<style>
-    .logo{
-        width:25px;
-        margin-right:5px;
-    }
-</style>
+
 
 ### Hi there 👋
 I'm Sajidur `(you can call me Sajid)`. I am a software engineer and developer and a trainer. For education purpose I am passionate about open source projects.Problem solving with many kinds of algorithms is an interesting topic for me. 
@@ -43,3 +38,10 @@ ___
 
 <img src="icons/html5/html5-original.svg" class="logo">
 <img src="icons/css3/css3-original.svg" class="logo">
+
+<style>
+    .logo{
+        width:25px;
+        margin-right:5px;
+    }
+</style>

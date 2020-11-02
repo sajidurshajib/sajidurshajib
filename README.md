@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Sajidur `(you can call me Sajid)`. I am a developer and a trainer. For education purpose I am passionate about open source projects. Problem solving with many kinds of algorithms is an interesting topic for me. 
+I'm Sajidur `(you can call me Sajid)`. I am a software engineer and developer and a trainer. For education purpose I am passionate about open source projects.Problem solving with many kinds of algorithms is an interesting topic for me. 
 
 I like work with team too. I have many projects which was I, developed working with team members. 
 
@@ -12,3 +12,7 @@ I like work with team too. I have many projects which was I, developed working w
 ![](https://img.shields.io/badge/web-php-blue)
 ![](https://img.shields.io/badge/desktop-java-orange)
 ![](https://img.shields.io/badge/algortihms-c/c++-lightgrey)
+
+___
+
+

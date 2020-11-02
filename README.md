@@ -1,3 +1,10 @@
+<style>
+    .logo{
+        width:25px;
+        margin-right:5px;
+    }
+</style>
+
 ### Hi there 👋
 I'm Sajidur `(you can call me Sajid)`. I am a software engineer and developer and a trainer. For education purpose I am passionate about open source projects.Problem solving with many kinds of algorithms is an interesting topic for me. 
 
@@ -15,4 +22,12 @@ I like work with team too. I have many projects which was I, developed working w
 
 ___
 
+### What I know...!
 
+<img src="icons/c/c-original.svg" class="logo">
+<img src="icons/cplusplus/cplusplus-original.svg" class="logo">
+<img src="icons/csharp/csharp-original.svg" class="logo">
+<img src="icons/java/java-original.svg" class="logo">
+<img src="icons/python/python-original.svg" class="logo">
+<img src="icons/php/php-original.svg" class="logo">
+<img src="icons/javascript/javascript-original.svg" class="logo">

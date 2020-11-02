@@ -19,29 +19,3 @@ ___
 
 ### What I know...!
 
-<img src="icons/c/c-original.svg" class="logo">
-<img src="icons/cplusplus/cplusplus-original.svg" class="logo">
-
-<br>
-
-<img src="icons/csharp/csharp-original.svg" class="logo">
-<img src="icons/java/java-original.svg" class="logo">
-<img src="icons/python/python-original.svg" class="logo">
-
-<br>
-
-<img src="icons/php/php-original.svg" class="logo">
-<img src="icons/javascript/javascript-original.svg" class="logo">
-<img src="icons/ruby/ruby-original.svg" class="logo">
-
-<br>
-
-<img src="icons/html5/html5-original.svg" class="logo">
-<img src="icons/css3/css3-original.svg" class="logo">
-
-<style>
-    .logo{
-        width:25px;
-        margin-right:5px;
-    }
-</style>

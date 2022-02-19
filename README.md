@@ -20,3 +20,5 @@ I like work with team too. I have many projects which was I, developed working w
 You can contact me through :e-mail: sajidur.inbox@gmail.com 
 
 For detail just visit :computer: https://sajidurshajib.github.io
+
+![Sajidur's GitHub stats](https://github-readme-stats.vercel.app/api?username=sajidurshajib&show_icons=true&theme=radical)

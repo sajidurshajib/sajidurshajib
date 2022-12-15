@@ -11,6 +11,7 @@ I like work with team too. I have many projects which was I, developed working w
 
 
 ![](https://img.shields.io/badge/web-js-yellow)
+![](https://img.shields.io/badge/web-python-blue)
 ![](https://img.shields.io/badge/web-php-blue)
 ![](https://img.shields.io/badge/desktop-java-orange)
 ![](https://img.shields.io/badge/algortihms-c/c++-lightgrey)

@@ -70,8 +70,6 @@ More on [pinned repos](https://github.com/sajidurshajib?tab=repositories) and [L
 
 Problem solver since university days — algorithms, data structures, and coding contests. Participated in **ICPC 2019** at the national level.
 
----
-
 ## Contact
 
 6+ years building production systems across the US, Canada, Ireland, South Sudan, and Bangladesh.  

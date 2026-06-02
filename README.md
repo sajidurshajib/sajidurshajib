@@ -13,11 +13,11 @@ Most of my work sits at that intersection: building features and making sure the
 
 ## What I do
 
-- 🖥️ Build interfaces people use every day — layouts that work on any screen, smooth interactions, and UIs wired properly to the backend.
-- ⚙️ Write APIs and server logic that power real products — business workflows, integrations, and features that need to stay fast under load.
-- 🗄️ Design schemas, write queries, and tune data layers so apps don't slow down as usage grows.
-- 🚀 Ship code with containers, CI/CD, and cloud infrastructure — deployments should be repeatable, not a manual fire drill every time.
-- 🔍 Own what happens after release — trace production issues, add monitoring before users notice, and automate the ops work nobody wants to do twice.
+- 🖥️ Build responsive UIs and wire them cleanly to the backend.
+- ⚙️ Write APIs and server logic for real products — integrations, workflows, performance under load.
+- 🗄️ Design schemas, tune queries, and keep data layers fast as usage grows.
+- 🚀 Ship with Docker, CI/CD, and cloud — repeatable deploys, not manual fire drills.
+- 🔍 Own production — debug issues, add monitoring early, automate repetitive ops.
 
 ---
 

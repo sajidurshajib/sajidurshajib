@@ -1,82 +1,59 @@
-<h1 align="center">Hi, I'm Sajid 👋</h1>
+# Sajidur Rahman Shajib
+SWE @[VitalGap](https://www.linkedin.com/company/vitalgap) | Python & JS | ERP | Microservices | DevOps, Cloud & AI Explorer
 
-<p align="center">
-  Software Engineer with 5+ years of experience building scalable backends, microservices, and full-stack web applications.
-</p>
+I write software and care about what happens after it ships — debugging production issues, making systems easier to monitor, and cutting down manual ops work.
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/sajidurshajib/">LinkedIn</a> ·
-  <a href="https://github.com/sajidurshajib">GitHub</a> ·
-  <a href="https://sajidurshajib.github.io">Website</a> ·
-  <a href="mailto:sajidur.inbox@gmail.com">sajidur.inbox@gmail.com</a>
-</p>
+Most of my work sits at that intersection: building features and making sure they hold up when real users depend on them.
+
+**Focus:** production reliability · observability · infrastructure automation
+
+[LinkedIn](https://www.linkedin.com/in/sajidurshajib/) · [Website](https://sajidurshajib.github.io)
 
 ---
 
-### About
+## What I do
 
-I'm a backend-focused engineer who's worked across startups in the US, Canada, and Bangladesh — building everything from healthcare platforms and compliance tools to real-time market analysis systems. I enjoy designing clean APIs, taming complex data pipelines, and occasionally going down the self-hosting rabbit hole.
-
----
-
-### Tech Stack
-
-**Languages** — Python · JavaScript · TypeScript · Shell  
-**Backend** — FastAPI · Django · Flask · Node.js (Express) · SQLAlchemy  
-**Frontend** — React · Next.js · jQuery  
-**Databases** — PostgreSQL · MySQL · MongoDB  
-**Infrastructure** — Docker · AWS (Serverless) · Redis · RabbitMQ · Linux · cPanel  
-**Other** — RAG / LLM integration · Stripe · Chrome extension development · Web scraping
+- 🖥️ Build interfaces people use every day — layouts that work on any screen, smooth interactions, and UIs wired properly to the backend.
+- ⚙️ Write APIs and server logic that power real products — business workflows, integrations, and features that need to stay fast under load.
+- 🗄️ Design schemas, write queries, and tune data layers so apps don't slow down as usage grows.
+- 🚀 Ship code with containers, CI/CD, and cloud infrastructure — deployments should be repeatable, not a manual fire drill every time.
+- 🔍 Own what happens after release — trace production issues, add monitoring before users notice, and automate the ops work nobody wants to do twice.
 
 ---
 
-### Experience
+## Stack
 
-**Sr. Software Engineer** — DevotrixInc *(US · Aug 2024 – Jan 2025)*  
-Microservices with FastAPI + Redis Pub/Sub, Supabase → AWS migration, Stripe integration.
-
-**Software Engineer** — World AI Group *(Canada · Dec 2023 – Jul 2024)*  
-Full-stack FastAPI + React, Redis caching, 30% reduction in API response times.
-
-**Solution Engineer** — ShadhinLab LLC *(BD · Jan 2023 – Apr 2023)*  
-AWS serverless, Chrome extension development, Laravel & Django maintenance.
-
-**Full-Stack Developer** — HEALTHx *(BD · Aug 2021 – Jan 2023)*  
-Started frontend (React), transitioned to full-stack, mentored team members.
-
-**Freelance Developer** *(Jul 2018 – Feb 2021)*  
-Diverse client projects during university — teamwork, delivery, problem-solving.
+**Languages:** Python, JavaScript, Shell
+**Backend:** FastAPI, Django, DRF, Flask, Express  
+**Frontend:** React, Next.js, JQuery, Ajax, HTMX  
+**Data:** PostgreSQL, MySQL, MongoDB, SQLAlchemy, Redis, RabbitMQ, Kafka  
+**DevOps:** Docker, Kubernetes, Jenkins, Ansible, Git, Linux, cPanel, AWS  
+**Observability:** Prometheus, Grafana, Loki  
+**Also:** OpenAI, LLM integration, RAG, embeddings, prompt engineering
 
 ---
 
-### Selected Projects
+## Selected work
 
-**[Nucomply](https://github.com/sajidurshajib)** *(2024–2025)*  
-Regulatory compliance platform with LLM-powered document analysis and RAG workflows.  
-`FastAPI · PostgreSQL · Redis · OpenAI · Docker`
+- **VitalGap** *(2025–Present)* — B2B/B2C ERP for wholesale distribution; Django + FastAPI, QuickBooks integration, SendGrid email service, frontend gateway.  
+  `Django · FastAPI · PostgreSQL · Redis · Next.js`
 
-**[Edgeful](https://github.com/sajidurshajib)** *(2023–2024)*  
-Real-time market analysis for stocks, ETFs, forex, and futures with microservices architecture.  
-`FastAPI · PostgreSQL · SQLAlchemy · Redis · Next.js`
+- **Nucomply** *(2024–2025)* — Regulatory compliance platform with LLM-powered document analysis and RAG workflows.  
+  `FastAPI · PostgreSQL · Redis · OpenAI · Docker · React`
 
-**[DentiCE](https://github.com/sajidurshajib)** *(2022–2023)*  
-Interactive learning platform for dentists — events, credit tracking, full-stack.  
-`FastAPI · PostgreSQL · Redis · React`
+- **Edgeful** *(2023–2024)* — Real-time market analysis for stocks, ETFs, forex, and futures with microservices architecture.  
+  `FastAPI · PostgreSQL · SQLAlchemy · Redis · Next.js`
 
-**HEALTHx Multi-Portal Ecosystem** *(2020–2022)*  
-Scalable healthcare backend serving 6+ portals: patients, doctors, clinics, pharmacy, e-prescription.  
-`FastAPI · MySQL · Django · React · Next.js`
+- **HEALTHx** *(2021–2023)* — Multi-portal healthcare ecosystem — patient, doctor, clinic, pharmacy, and e-prescription systems.  
+  `FastAPI · MySQL · Django · React · Next.js`
+
+More on [pinned repos](https://github.com/sajidurshajib?tab=repositories) and [LinkedIn](https://www.linkedin.com/in/sajidurshajib/).
 
 ---
 
-### Education
+## Contact
 
-**B.Sc in Computer Science and Engineering**  
-Ranada Prasad Shaha University, Narayanganj — 2017–2021
+6+ years building production systems across the US, Canada, Ireland, and Bangladesh.  
+**sajidur.inbox@gmail.com**
 
----
-
-### Let's connect
-
-Open to interesting backend problems, collaboration, or just a good tech conversation.  
-Find me on [LinkedIn](https://www.linkedin.com/in/sajidurshajib/) or write to **sajidur.inbox@gmail.com**.
+Full work history: [Resume](https://docs.google.com/document/d/1AxUFLrelhUbmevGxE0LsB3czc4gRanqpjAK0QAuTaVk/edit?usp=sharing) · [LinkedIn](https://www.linkedin.com/in/sajidurshajib/)
